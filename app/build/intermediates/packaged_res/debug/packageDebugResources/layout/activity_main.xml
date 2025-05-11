@@ -15,7 +15,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="700dp"
+            android:layout_height="510dp"
             android:orientation="vertical"
             android:background="@drawable/background">
 
@@ -24,7 +24,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="100dp"
+                android:layout_marginTop="20dp"
                 android:text="Location: Fetching..."
                 android:textSize="25dp"
                 android:textColor="@color/white"
@@ -42,8 +42,8 @@
 
             <ImageView
                 android:id="@+id/weatherIcon"
-                android:layout_width="220dp"
-                android:layout_height="220dp"
+                android:layout_width="200dp"
+                android:layout_height="150dp"
                 android:layout_gravity="center_horizontal"
                 android:contentDescription="Weather Icon" />
 

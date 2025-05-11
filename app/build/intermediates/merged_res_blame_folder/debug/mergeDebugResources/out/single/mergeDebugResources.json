@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Ethar\\.gradle\\daemon\\8.9\\com.example.weather.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "com.example.weather.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.weather.app-main-35:/layout/activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Ethar\\.gradle\\daemon\\8.9\\com.example.weather.app-debug-33:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\Ethar\\.gradle\\daemon\\8.9\\com.example.weather.app-main-35:\\xml\\data_extraction_rules.xml"
     },
@@ -30,10 +34,6 @@
     {
         "merged": "C:\\Users\\Ethar\\.gradle\\daemon\\8.9\\com.example.weather.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Ethar\\.gradle\\daemon\\8.9\\com.example.weather.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.weather.app-debug-33:/drawable_ultraviolet_9856121.png.flat",
-        "source": "com.example.weather.app-main-35:/drawable/ultraviolet_9856121.png"
     },
     {
         "merged": "C:\\Users\\Ethar\\.gradle\\daemon\\8.9\\com.example.weather.app-debug-33:\\layout_activity_main.xml.flat",
@@ -82,14 +82,6 @@
     {
         "merged": "C:\\Users\\Ethar\\.gradle\\daemon\\8.9\\com.example.weather.app-debug-33:\\drawable_label_background.xml.flat",
         "source": "C:\\Users\\Ethar\\.gradle\\daemon\\8.9\\com.example.weather.app-main-35:\\drawable\\label_background.xml"
-    },
-    {
-        "merged": "com.example.weather.app-debug-33:/drawable_humidity_4567758.png.flat",
-        "source": "com.example.weather.app-main-35:/drawable/humidity_4567758.png"
-    },
-    {
-        "merged": "com.example.weather.app-debug-33:/drawable_arrow_16290876.png.flat",
-        "source": "com.example.weather.app-main-35:/drawable/arrow_16290876.png"
     },
     {
         "merged": "C:\\Users\\Ethar\\.gradle\\daemon\\8.9\\com.example.weather.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
