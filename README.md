@@ -21,7 +21,7 @@ An Android weather tracking application that displays current weather based on G
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/EtharAlshrqawy/Weather.git
+   git clone https://github.com/EtharAlshrqawy/WeatherApp.git
    ```
 2. Open the project in Android Studio.
 3. Add your Visual Crossing API key in the designated location in the code.
